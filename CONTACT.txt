@@ -1,0 +1,7 @@
+Full Name: Sourabh dharra  
+Email: [s.dharra88@gmail.com]  
+Phone: 8607699421 
+GitHub: https://github.com/SOURABH-05 
+
+Most Challenging Part:
+Implementing a seamless Role-Based Access Control (RBAC) system. Because this app has 5 completely different roles (Student, Trainer, Institution, Programme Manager, Monitoring Officer), it was tough organizing the frontend sidebar and routing to ensure users couldn't hit each other's APIs. Navigating the relationship logic in NoSQL—specifically ensuring that the JWT middleware in Express correctly evaluated user batch claims before fulfilling attendance queries—required careful planning and a lot of debugging.
